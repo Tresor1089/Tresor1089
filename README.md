@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tresor1089
 - 👀 I’m interested in CYBER security
-- 🌱 I’m currently learning  software engineering
-- 💞️ I’m looking to collaborate on web based shipping manegement systme
-- 📫 How to reach me +243971089951
+- 🌱 I’m currently a software engineer, full stack web developper
+- 📫 How to reach me +243971089951, tresoremmanuel@gmial.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
